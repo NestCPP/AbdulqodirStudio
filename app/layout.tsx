@@ -10,8 +10,8 @@ const geistMono = Geist_Mono({
 })
 
 export const metadata: Metadata = {
-  title: 'v0 App',
-  description: 'Created with v0',
+  title: 'ABDULQODIR STUDIO - 3D Artist & Animator',
+  description: 'Premium 3D artist studio specializing in game assets, environment art, character design, and production-ready CGI animation. AAA game quality worldbuilding and cinematic renders.',
   generator: 'v0.app',
   icons: {
     icon: [
@@ -35,8 +35,8 @@ export const metadata: Metadata = {
 export const viewport: Viewport = {
   colorScheme: 'light dark',
   themeColor: [
-    { media: '(prefers-color-scheme: light)', color: 'white' },
-    { media: '(prefers-color-scheme: dark)', color: 'black' },
+    { media: '(prefers-color-scheme: light)', color: '#0f172a' },
+    { media: '(prefers-color-scheme: dark)', color: '#0f172a' },
   ],
 }
 
