@@ -12,7 +12,6 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: 'ABDULQODIR STUDIO - 3D Artist & Animator',
   description: 'Premium 3D artist studio specializing in game assets, environment art, character design, and production-ready CGI animation. AAA game quality worldbuilding and cinematic renders.',
-  generator: 'v0.app',
   icons: {
     icon: [
       {
