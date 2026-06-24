@@ -38,7 +38,7 @@ export function PremiumHero() {
       <div
         className="absolute inset-0 w-full h-full bg-cover bg-center"
         style={{
-          backgroundImage: 'url(/abandoned-room.jpg)',
+          backgroundImage: 'url(/image.png)',
         }}
       />
 
